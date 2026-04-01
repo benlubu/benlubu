@@ -1,6 +1,6 @@
 # intro
 <div align="center">
-  <img width=180 src="https://avatars.githubusercontent.com/callmeqan"/>
+  <img width=180 src="https://avatars.githubusercontent.com/benlubu"/>
 </div>
 <h2>About Me</h2>
 <p>Hi, I'm Khoi Nguyen (also known as Ben), I've been learning coding for 4+ years as my hobby. Starting from Python to C++ then HTML and Javascript, and now working on Typescript and Java!</p>
